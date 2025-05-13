@@ -1,5 +1,5 @@
 <h1 align="center">Lliam Khenzo Monleon</h1>
-<h3 align="center">A Backend Developer from Secret HAHAHA</h3>
+<h3 align="center">A Backend Developer from Cebu City</h3>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
