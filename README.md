@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lliam Khenzo Monleon</h1>
+<h1 align="center">Lliam Khenzo Monleon</h1>
 <h3 align="center">A Backend Developer from Secret HAHAHA</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leyuumm" alt="leyuumm" /></a> </p>
